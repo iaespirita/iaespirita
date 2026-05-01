@@ -16,9 +16,9 @@
 
 ## 🧠 Sobre · About
 
-**🇧🇷** O **IA.Espírita** é um projeto sem fins lucrativos que une a Doutrina Espírita Kardecista à Inteligência Artificial. Construímos chatbots, datasets e ferramentas open-source para tornar o conhecimento espírita acessível a uma geração nativa digital — com rigor doutrinário e estética cyberpunk.
+**🇧🇷** O **IA.Espírita** é um projeto sem fins lucrativos que une a Doutrina Espírita Kardecista à Inteligência Artificial. Construímos chatbots, datasets e ferramentas open-source para tornar o conhecimento espírita acessível a uma geração nativa digital — com rigor doutrinário.
 
-**🇺🇸** **IA.Espírita** is a non-profit project bridging Kardecist Spiritist doctrine and Artificial Intelligence. We build chatbots, datasets, and open-source tools to make spiritist knowledge accessible to digital natives — with doctrinal rigor and a cyberpunk aesthetic.
+**🇺🇸** **IA.Espírita** is a non-profit project bridging Kardecist Spiritist doctrine and Artificial Intelligence. We build chatbots, datasets, and open-source tools to make spiritist knowledge accessible to digital natives — with doctrinal rigor.
 
 ```yaml
 mission:    Democratizar o acesso à Doutrina Espírita via IA
