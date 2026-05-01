@@ -81,23 +81,6 @@ Datasets curados de obras espíritas para pesquisa em NLP, LLMs e estudos religi
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iaespirita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=00D4FF&icon_color=6B0FD4&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iaespirita&theme=tokyonight&hide_border=true&background=0A0A1A&stroke=6B0FD4&ring=00D4FF&fire=FFD21E&currStreakLabel=00D4FF" alt="Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaespirita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=iaespirita&style=for-the-badge&color=6B0FD4&label=PROFILE+VIEWS)
-
-</div>
-
 ---
 
 ## 🌐 Onde nos encontrar · Find us
