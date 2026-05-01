@@ -1,20 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██╗ █████╗   ███████╗███████╗██████╗ ██╗██████╗ ██╗████████╗ █████╗ ║
-║   ██║██╔══██╗  ██╔════╝██╔════╝██╔══██╗██║██╔══██╗██║╚══██╔══╝██╔══██╗║
-║   ██║███████║  █████╗  ███████╗██████╔╝██║██████╔╝██║   ██║   ███████║║
-║   ██║██╔══██║  ██╔══╝  ╚════██║██╔═══╝ ██║██╔══██╗██║   ██║   ██╔══██║║
-║   ██║██║  ██║  ███████╗███████║██║     ██║██║  ██║██║   ██║   ██║  ██║║
-║   ╚═╝╚═╝  ╚═╝  ╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝║
-║                                                              ║
-║       > KARDECIST DOCTRINE × ARTIFICIAL INTELLIGENCE         ║
-║       > [SYSTEM ONLINE] _                                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,7&height=200&section=header&text=IA.Espírita&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kardecist%20Doctrine%20×%20Artificial%20Intelligence&descAlignY=58&descSize=18" width="100%" />
 
 ### `> Onde a doutrina espírita encontra a era da IA`
 ### `> Where Spiritist doctrine meets the AI era`
@@ -28,7 +14,7 @@
 
 ---
 
-## 🧠 Sobre o projeto · About
+## 🧠 Sobre · About
 
 **🇧🇷** O **IA.Espírita** é um projeto sem fins lucrativos que une a Doutrina Espírita Kardecista à Inteligência Artificial. Construímos chatbots, datasets e ferramentas open-source para tornar o conhecimento espírita acessível a uma geração nativa digital — com rigor doutrinário e estética cyberpunk.
 
@@ -46,13 +32,14 @@ location:   Vila Velha, ES — Brasil 🇧🇷
 ## 🚀 Projetos em destaque · Featured Projects
 
 ### 🔮 RIV IA — Chatbot Espírita
-> Production chatbot trained on Allan Kardec's full Codification (5 works). Cites primary sources with doctrinal abbreviations (LE, LM, ESE, CI, G, OP). Multilingual support.
 
-[![RIV IA](https://img.shields.io/badge/Status-LIVE-00D4FF?style=flat-square)](https://iaespirita.com)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_+_Supabase_+_DeepSeek-6B0FD4?style=flat-square)]()
-[![RAG](https://img.shields.io/badge/Architecture-RAG_pgvector-FFD21E?style=flat-square)]()
+> Production chatbot trained on Allan Kardec's full Codification (5 works). Cites primary sources with doctrinal abbreviations (LE, LM, ESE, CI, G, OP). Multilingual support in PT, EN, ES, FR.
 
-**🌐 Try it:** [iaespirita.com](https://iaespirita.com)
+![Status](https://img.shields.io/badge/Status-LIVE-00D4FF?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Next.js_+_Supabase_+_DeepSeek-6B0FD4?style=flat-square)
+![RAG](https://img.shields.io/badge/Architecture-RAG_pgvector-FFD21E?style=flat-square)
+
+**🌐 Try it now:** [iaespirita.com](https://iaespirita.com)
 
 ---
 
@@ -101,11 +88,11 @@ Datasets curados de obras espíritas para pesquisa em NLP, LLMs e estudos religi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iaespirita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=00D4FF&icon_color=6B0FD4&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=iaespirita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=00D4FF&icon_color=6B0FD4&text_color=FFFFFF" alt="GitHub Stats" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaespirita&theme=tokyonight&hide_border=true&background=0A0A1A&stroke=6B0FD4&ring=00D4FF&fire=FFD21E&currStreakLabel=00D4FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iaespirita&theme=tokyonight&hide_border=true&background=0A0A1A&stroke=6B0FD4&ring=00D4FF&fire=FFD21E&currStreakLabel=00D4FF" alt="Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iaespirita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=00D4FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaespirita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iaespirita&style=for-the-badge&color=6B0FD4&label=PROFILE+VIEWS)
 
@@ -134,10 +121,6 @@ Datasets curados de obras espíritas para pesquisa em NLP, LLMs e estudos religi
 
 ### `> "Fora da caridade não há salvação." — Allan Kardec`
 ### `> "Outside of charity, there is no salvation."`
-
-```
-[ EOF ]_
-```
 
 **🇧🇷 Feito com 💜 em Vila Velha, ES** · **🇺🇸 Built with 💜 in Vila Velha, Brazil**
 
